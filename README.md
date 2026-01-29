@@ -8,7 +8,7 @@ Perfect for beginners learning **DOM manipulation**, **event listeners**, and **
 ---
 
 ## 🚀 Live Demo
-👉 https://protap91.github.io/random-color-generator/
+👉 https://protap91.github.io/Random-color-generator/
 
 
 
